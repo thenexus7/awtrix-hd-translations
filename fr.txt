@@ -118,7 +118,7 @@ City=Ville
 Show City=Afficher la ville
 Feels like=Ressenti
 Humidity=Humidité
-Pressure=PRession
+Pressure=Pression
 Windspeed=Vitesse du vent
 Direction=Direction
 
